@@ -1,4 +1,4 @@
-# T6 - Prog II A
+# T6 - Prog II
 
 ## Technologies used <br>
 Click to access the documentation: [NodeJs](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [Sequelize](https://sequelize.org/docs/v6/), [React](https://pt-br.reactjs.org/languages).
