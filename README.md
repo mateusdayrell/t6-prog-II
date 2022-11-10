@@ -1,4 +1,4 @@
-# Prog II A - T6
+# T6 - Prog II A
 
 ## Technologies used <br>
 Click to access the documentation: [NodeJs](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [Sequelize](https://sequelize.org/docs/v6/), [React](https://pt-br.reactjs.org/languages).
@@ -7,7 +7,7 @@ Click to access the documentation: [NodeJs](https://nodejs.org/en/), [Express](h
 
 ### Clone the repository
 ```
-git clone https://github.com/mateusdayrell/llrn-backend.git
+git clone https://github.com/mateusdayrell/t6-prog-II.git
 ```
 
 ### Access the project folder
