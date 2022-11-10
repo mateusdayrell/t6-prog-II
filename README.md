@@ -30,7 +30,10 @@ cd t6-mateus-dayrell
 ```
 
 
-### Create a database named 'testdb'
+### Set the database
+```
+Create a database named 'testdb'
+```
 
 ### Serve the aplication
 ```
