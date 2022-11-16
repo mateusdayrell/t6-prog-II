@@ -1,4 +1,6 @@
 # T6 - Prog II
+College work of Programming II subject.
+You can access the base text on this [link](https://www.bezkoder.com/react-node-express-mysql/).
 
 ## Technologies used <br>
 Click to access the documentation: [NodeJs](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [Sequelize](https://sequelize.org/docs/v6/), [React](https://pt-br.reactjs.org/languages).
